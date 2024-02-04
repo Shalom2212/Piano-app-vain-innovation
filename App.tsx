@@ -139,7 +139,7 @@ const App = () => {
                     }}></View>
                 </TouchableOpacity>
               ))}
-              {/* This below component to render black keys, i couldn't loop this component as white key as it changes it's position for consecutive  top="x%" */}
+              {/* This below component to render black keys, i tried loop this component as same as white keys but it changes it's position for consecutive  top="x%" style */}
               <View
                 onTouchStart={() => onPianoKeyPress('eb6')}
                 style={{
