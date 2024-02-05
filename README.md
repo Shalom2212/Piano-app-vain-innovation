@@ -3,12 +3,12 @@ As per task I completed all the interactive functionality and incorporated visua
 
 ## Screenshots
 
-![Alt text](5005123f-c8b9-4d00-a12f-0194f26b15b6.jpg)
+![Alt text](./assets/image/OutputScreenshot.jpg)
 
 After pressing key
 
 
-![Alt text](ccec5453-3c37-4ce8-ace7-ec692cfeebc7.jpg)
+![Alt text](./assets/image/OutputScreenshotKeyPress.jpg)
 # To Run Locally
 
 >**Note**: Make sure you have **node<=v18.17.1** and must have **java<=v17**
