@@ -31,7 +31,7 @@ npm start
 # choice option i for ios
 ```
 
-```
+
 To learn more about React Native, take a look at the following resources:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
